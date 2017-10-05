@@ -7,6 +7,7 @@ using Nsc.Wu.Api.Areas.HelpPage.Models;
 namespace Nsc.Wu.Api.Areas.HelpPage.Controllers
 {
     /// <summary>
+    /// 
     /// The controller that will handle requests for the help page.
     /// </summary>
     public class HelpController : Controller
